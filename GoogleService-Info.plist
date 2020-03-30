@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1028594979194-7c7emlk25se06nu961qvplf0ac84p74l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1028594979194-7c7emlk25se06nu961qvplf0ac84p74l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCERH4HzZ2DQ1TwsVcY4TQdSQVrkHzbA1Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1028594979194</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.bacchusapp</string>
+	<key>PROJECT_ID</key>
+	<string>bacchusapp-81bd0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bacchusapp-81bd0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1028594979194:ios:081caad9c4bd02632b06c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://bacchusapp-81bd0.firebaseio.com</string>
+</dict>
+</plist>

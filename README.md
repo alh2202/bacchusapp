@@ -13,6 +13,7 @@ In order to run this app you will need:
 ### Installation instructions
 
 On your command line:
+
 `git clone https://github.com/Bacchus-Dev-Squad/bacchusapp`
 
 `cd bacchusapp/ios`

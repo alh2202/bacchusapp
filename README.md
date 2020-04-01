@@ -1,6 +1,8 @@
 # Welcome to the Bacchus Proj Dev Squad!
+# Great to see you here!
 
 ### Here are some tips to get you started:
+
 
 #### Dependencies:
 

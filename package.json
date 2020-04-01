@@ -1,31 +1,27 @@
 {
   "name": "bacchusapp",
-  "version": "6.3.4",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
     "start": "react-native start",
-    "run:android": "react-native run-android",
-    "run:ios": "react-native run-ios --simulator=\"iPhone X\"",
-    "build:apk": "cd android && ./gradlew assembleRelease",
     "test": "jest",
-    "prepare": "patch-package"
+    "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-firebase/app": "6.3.4",
-    "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react": "16.11.0",
+    "react-native": "0.62.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.2",
-    "@babel/runtime": "^7.6.2",
-    "@react-native-community/cli": "^2.9.0",
-    "@react-native-community/eslint-config": "^0.0.5",
-    "babel-jest": "^24.9.0",
-    "eslint": "^6.5.1",
-    "jest": "^24.9.0",
-    "metro-react-native-babel-preset": "^0.56.0",
-    "patch-package": "^6.1.4",
-    "react-test-renderer": "16.9.0"
+    "@babel/core": "^7.9.0",
+    "@babel/runtime": "^7.9.2",
+    "@react-native-community/eslint-config": "^1.0.0",
+    "babel-jest": "^25.2.4",
+    "eslint": "^6.8.0",
+    "jest": "^25.2.4",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.11.0"
   },
   "jest": {
     "preset": "react-native"
